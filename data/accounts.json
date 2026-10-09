@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": "usr-default-admin",
+      "name": "keerthan",
+      "email": "keerthanraj@uit.ac.in",
+      "phone": "Not set",
+      "role": "admin",
+      "isVerified": true,
+      "status": "active",
+      "language": "English",
+      "createdAt": "2026-07-30",
+      "address": {
+        "village": "Coimbatore",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "pincode": "641001",
+        "latitude": 11.0168,
+        "longitude": 76.9558
+      }
+    },
+    {
+      "id": "usr-1785398969582",
+      "name": "arun",
+      "email": "arun@uit.ac.in",
+      "phone": "9361147831",
+      "role": "provider",
+      "isVerified": true,
+      "status": "active",
+      "language": "English",
+      "createdAt": "2026-07-30",
+      "address": {
+        "village": "Not set",
+        "district": "Not set",
+        "state": "Not set",
+        "pincode": "",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "providerDetails": {
+        "businessName": "farming",
+        "bankName": "State Bank of India",
+        "accountNumber": "998877665544",
+        "ifscCode": "SBIN0001122",
+        "walletBalance": 0,
+        "rating": 5,
+        "totalRentals": 0
+      }
+    },
+    {
+      "id": "usr-1785399408164",
+      "name": "yogesh",
+      "email": "yogesh@uit.ac.in",
+      "phone": "9361147831",
+      "role": "farmer",
+      "isVerified": true,
+      "status": "active",
+      "language": "English",
+      "createdAt": "2026-07-30",
+      "address": {
+        "village": "Not set",
+        "district": "Not set",
+        "state": "Not set",
+        "pincode": "",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "farmerDetails": {
+        "landSizeAcres": 5,
+        "primaryCrops": [
+          "Paddy",
+          "Sugarcane"
+        ]
+      }
+    },
+    {
+      "id": "usr-1789027432842",
+      "name": "pandi",
+      "email": "keerthanalagu22@gmail.com",
+      "phone": "9787375490",
+      "role": "delivery",
+      "isVerified": true,
+      "status": "active",
+      "language": "English",
+      "createdAt": "2026-09-10",
+      "address": {
+        "village": "Not set",
+        "district": "Not set",
+        "state": "Not set",
+        "pincode": "",
+        "latitude": 0,
+        "longitude": 0
+      }
+    }
+  ],
+  "credentials": [
+    [
+      "usr-default-admin",
+      "uit@#229"
+    ],
+    [
+      "usr-1785398969582",
+      "arun22"
+    ],
+    [
+      "usr-1785399408164",
+      "yogesh"
+    ],
+    [
+      "usr-1789027432842",
+      "Spk220706"
+    ]
+  ]
+}

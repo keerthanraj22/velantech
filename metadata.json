@@ -1,0 +1,6 @@
+{
+  "name": "VELANTECH",
+  "description": "Location-based agricultural equipment rental platform for farmers, providers, and admins.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
